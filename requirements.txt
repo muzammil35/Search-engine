@@ -3,4 +3,4 @@ pandas
 requests>= 2.28.2, < 2.29.0
 beautifulsoup4
 aiohttp
-urllib3=1.26.15
+urllib3>=1.26.15
