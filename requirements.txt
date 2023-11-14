@@ -1,6 +1,7 @@
-flask
+flask[async]
 pandas
 requests>= 2.28.2, < 2.29.0
 beautifulsoup4
 aiohttp
+asyncio
 urllib3>=1.26.15
