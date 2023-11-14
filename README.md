@@ -19,8 +19,10 @@ File overview:
 
 
 ## Run
+You can visit this link to try out an incomplete version of the app: https://b5cq7vfzch.execute-api.us-west-2.amazonaws.com/ 
+(could not use too much memory storage for db but content filtering, tracker-filtering and search engine functionality work great)
 
-Run the project with:
+or Run the project with:
 
 * `pip install -r requirements.txt`
 * `flask --debug run --port 5001`
