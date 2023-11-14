@@ -3,7 +3,7 @@ import pandas as  pd
 
 class DBStorage():
     def __init__(self):
-        self.con = sqlite3.connect("links.db")
+        self.con = sqlite3.connect("search.db")
         self.setup_tables()
     
     def setup_tables(self):
