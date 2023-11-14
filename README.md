@@ -26,3 +26,10 @@ or Run the project with:
 
 * `pip install -r requirements.txt`
 * `flask --debug run --port 5001`
+
+## Demo
+
+
+
+https://github.com/muzammil35/Search-engine/assets/145228299/37ca18c9-ab89-4c8e-ac91-89cb226bb3d2
+
